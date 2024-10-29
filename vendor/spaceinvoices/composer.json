@@ -1,0 +1,5 @@
+{
+    "require": {
+        "space-invoices/space-invoices-php": "^1.0"
+    }
+}

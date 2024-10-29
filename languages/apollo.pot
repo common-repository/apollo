@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-03 10:56+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: apollo.php:64
+msgid "Apollo - invoice"
+msgstr ""
+
+#: apollo.php:68
+msgid "Apollo - estimate"
+msgstr ""
+
+#: apollo.php:77
+msgid "Settings"
+msgstr ""
+
+#: apollo.php:101 apollo.php:155
+msgid "Number:"
+msgstr ""
+
+#: apollo.php:106
+msgid ""
+"You can read about sending inovices in Apollo settings, under Mailing Options"
+msgstr ""
+
+#: apollo.php:106 apollo.php:160
+msgid "Sent:"
+msgstr ""
+
+#: apollo.php:107 apollo.php:161
+msgid "Yes"
+msgstr ""
+
+#: apollo.php:107 apollo.php:161
+msgid "No"
+msgstr ""
+
+#: apollo.php:160
+msgid ""
+"You can read about sending estimates in Apollo settings, under Mailing "
+"Options"
+msgstr ""
+
+#: admin/settings/general.php:10
+msgid "General"
+msgstr ""
+
+#: admin/settings/general.php:21
+msgid "Tokens Options"
+msgstr ""
+
+#: admin/settings/general.php:22
+#, php-format
+msgid ""
+"You can get your token and organization ID at <a target=\"_blank\" href="
+"\"%1$s\">Apollo official page</a>. Token and organization fields are "
+"required, in order for plugin to work."
+msgstr ""
+
+#: admin/settings/general.php:25
+msgid "Mailing Options"
+msgstr ""
+
+#: admin/settings/general.php:27
+#, php-format
+msgid ""
+"<p>The PDF invoice will be generated when WooCommerce sends the "
+"corresponding email. The email should be <a target=\"_blank\" href=\"%1$s"
+"\">enabled</a> in order to automatically generate and send the PDF invoice.</"
+"p>\n"
+"\t\t\t\t\t\t<p> You can manually create estimates or inovice for each order. "
+"You can send estimate or inovice (if both are created, only invoice is sent) "
+"by choosing \"Email invoice / order details to customer\" option under "
+"\"Order actions\". Note that invoice/estimate PDF will be sent only if it "
+"was created before sending email.</p>\n"
+"\t\t\t\t\t"
+msgstr ""
+
+#: admin/settings/general.php:41
+msgid "Apollo token"
+msgstr ""
+
+#: admin/settings/general.php:52
+msgid "Organization ID"
+msgstr ""
+
+#: admin/settings/general.php:63
+msgid "Attach invoices to Emails"
+msgstr ""
+
+#: admin/settings/general.php:68
+msgid "Send invoice automatically"
+msgstr ""
+
+#: admin/settings/general.php:69
+msgid ""
+"Invoice will be automatically created, marked as PAID and attached to order, "
+"if order status matches chosen status. <b>Note that invoice should be sent "
+"after payment was already confirmed</b>."
+msgstr ""
+
+#: admin/settings/general.php:80
+msgid "Invoice will be sent when new order with chosen status is created."
+msgstr ""
+
+#: admin/settings/general.php:82
+msgid "On hold"
+msgstr ""
+
+#: admin/settings/general.php:83
+msgid "Processing"
+msgstr ""
+
+#: admin/settings/general.php:84
+msgid "Completed"
+msgstr ""
+
+#: admin/settings/general.php:91
+msgid "Attach estimates to Emails"
+msgstr ""
+
+#: admin/settings/general.php:96
+msgid "Send estimate automatically"
+msgstr ""
+
+#: admin/settings/general.php:97
+msgid "Only sends estimates if order payment type is \"Direct bank transfer\"."
+msgstr ""
+
+#: admin/settings/main-settings.php:45
+msgid "Apollo"
+msgstr ""

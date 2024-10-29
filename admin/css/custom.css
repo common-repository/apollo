@@ -1,0 +1,35 @@
+.apollo-notes {
+    cursor: default;
+    font-size: 13px;
+    font-style: italic;
+    margin-top: 3px;
+}
+
+div.apollo form input[type="text"],
+div.apollo form select,
+div.apollo form .select2-container {
+    width: 550px;
+    height: 40px;
+}
+
+a.apollo.order-page.invoice.button {
+    margin: 4px !important;
+}
+
+table.apollo.order-page-meta-box.pdf-invoice {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+table.apollo.order-page-meta-box.pdf-invoice tr td:last-child {
+    text-align: right;
+    font-weight: bold;
+}
+
+table.apollo.order-page-meta-box.pdf-invoice tr .pointer {
+    cursor: pointer;
+}
+
+table tr.payment-cb td {
+    padding: 0 10px !important;
+}
